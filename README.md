@@ -1,4 +1,4 @@
-# MuscleHub A/B/Test
+# MuscleHub A/B Test
 MuscleHub is a fancy gym.Currently, when a visitor to MuscleHub is considering buying a membership, he or she follows the following steps:
 <ul>
     <li>Take a fitness test with a personal trainer</li>
